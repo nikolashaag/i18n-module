@@ -87,8 +87,8 @@
     ]
   },
   "dependencies": {
-    "@babel/parser": "^7.16.2",
-    "@babel/traverse": "^7.16.0",
+    "@babel/parser": "^7.16.3",
+    "@babel/traverse": "^7.16.3",
     "@intlify/vue-i18n-extensions": "^1.0.2",
     "@intlify/vue-i18n-loader": "^1.1.0",
     "cookie": "^0.4.1",
@@ -103,9 +103,9 @@
   "devDependencies": {
     "@babel/core": "7.16.0",
     "@babel/preset-env": "7.16.0",
-    "@babel/runtime": "7.16.0",
+    "@babel/runtime": "7.16.3",
     "@nuxt/types": "2.15.8",
-    "@nuxtjs/composition-api": "0.29.3",
+    "@nuxtjs/composition-api": "0.30.0",
     "@nuxtjs/eslint-config-typescript": "7.0.2",
     "@nuxtjs/module-test-utils": "1.6.3",
     "@release-it/conventional-changelog": "3.3.0",
@@ -124,7 +124,7 @@
     "babel-eslint": "10.1.0",
     "codecov": "3.8.3",
     "core-js": "3.19.1",
-    "eslint": "8.1.0",
+    "eslint": "8.2.0",
     "express": "4.17.1",
     "husky": "4.3.8",
     "jest": "27.3.1",
